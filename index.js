@@ -17,7 +17,7 @@ app.get("/studeleted/:id",Student.stuDel)
 app.get("/stuedit/:id" ,Student.stuEdit)
 app.post("/editsave/:id" ,Student.stuEditsave)
 
-app.listen(8000)
+app.listen(4000)
 
 
 
